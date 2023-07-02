@@ -1,0 +1,106 @@
+.header{
+    margin-left: auto;
+    margin-right: auto;
+    height: 300px;
+    width: 1000px;
+}
+.header1
+{
+    height: 250px;
+    width: 1000;
+}
+.logo{
+    float: left;
+    height: 265px;
+    width: 260px;
+    background-color: white;
+}
+.menu{
+    height: 50px;
+    width: 1000px;
+    background-color: black;
+    color: white;
+}
+.menu ul li{
+    color: white;
+    position: relative;
+    top: auto;
+    display: inline;
+    padding: 50px;
+}
+.menu ul li a{
+text-decoration:none;
+color:#FFFFFF;
+}
+.name{
+    text-align: center;
+    height: 300px;
+    right: 200px;
+    width: 1000px;
+    background-color: red;
+}
+.n{
+    position: relative;
+    top: 100px;
+}
+.home1{
+
+    margin-left: auto;
+    margin-right: auto;
+    height: 500px;
+    width: 1000px;   
+}
+.pa
+{
+    margin-left: auto;
+    margin-right: auto;
+    height: 100px;
+    width: 1000px;
+}
+.about1
+{
+    margin-left: auto;
+    margin-right: auto;
+    background-color: black;
+    height: 500px;
+    width: 1000px;
+}
+.img1
+{
+    float: right;
+}
+.img2
+{
+    float: left;
+}
+.img3
+{
+    float: right;
+}
+.img4
+{
+    float: left;
+}
+.contact{
+margin-left:auto;
+margin-right:auto;
+height:500px;
+width:1000px;
+background-color: #FFFFFF;
+}
+.menu12
+{
+height: 600px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+text-align:center;
+}
+.reg
+{
+height:600px;
+width:1000px;
+margin-left:auto;
+margin-right:auto;
+background-color:#CCFF00;
+}

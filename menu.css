@@ -1,0 +1,26 @@
+.menulist{
+    position: relative;
+    top: 50px;
+    height: 300px;
+    width: 1000px;
+    background-color: grey;
+    color: black;
+    margin-left: auto;
+    margin-right: auto;
+}
+.header2
+{
+    height: 100px;
+    width: 1000px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: red;
+}
+.f ul li
+{
+    display: inline;
+    position: relative;
+    padding: 50px;
+    top: 50px;
+    
+}
